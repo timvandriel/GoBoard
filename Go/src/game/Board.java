@@ -300,6 +300,7 @@ public class Board {
         return true;
     }
 }
+// Point class to represent a point on the board
 class Point{
     int x, y;
     public Point(int x, int y) {
